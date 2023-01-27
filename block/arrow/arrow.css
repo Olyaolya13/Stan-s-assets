@@ -1,0 +1,8 @@
+.arrow {
+  border: solid 1px #fff;
+  border-width: 0 1.5px 1.5px 0;
+  display: inline-block;
+  padding: 2px;
+  margin-left: 3px;
+  transform: rotate(45deg);
+}
