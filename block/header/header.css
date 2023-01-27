@@ -3,4 +3,5 @@
   background-size: cover;
   max-width: 1600px;
   min-height: 650px;
+  position: relative;
 }
