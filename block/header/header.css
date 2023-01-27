@@ -1,5 +1,6 @@
 .header {
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
+  background: url(../../image/header-picture.png) center no-repeat;
+  background-size: cover;
+  max-width: 1600px;
+  min-height: 650px;
 }
