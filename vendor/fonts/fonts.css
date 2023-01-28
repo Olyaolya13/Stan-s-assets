@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'Habara', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(./Harabara.woff) format('woff'), url(./Harabara.woff2) format('woff2'),
+    url(./Harabara.ttf) format('TrueType');
+}
+
+@font-face {
+  font-family: 'Montserrat', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(./Montserrat-Regular.woff) format('woff'),
+    url(./Montserrat-Regular.woff2) format('woff2'),
+    url(./Montserrat-Regular.ttf) format('TrueType');
+}
+
+@font-face {
+  font-family: 'Montserrat', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(./Montserrat-Bold.woff) format('woff'), url(./Montserrat-Bold.woff) format('woff2'),
+    url(./Montserrat-Bold.woff2) format('TrueType');
+}
+
+@font-face {
+  font-family: 'Montserrat', sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(./Montserrat-Black.woff) format('woff'), url(./Montserrat-Black.woff2) format('woff2'),
+    url(./Montserrat-Black.ttf) format('TrueType');
+}
