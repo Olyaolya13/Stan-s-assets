@@ -1,0 +1,14 @@
+.header__text {
+  max-width: 550px;
+  color: #fff;
+  margin-top: 147px;
+  margin-left: 126px;
+}
+
+@media (max-width: 1400px) {
+  .header__text {
+    margin-top: 120px;
+    margin-left: 80px;
+    max-width: 463px;
+  }
+}
