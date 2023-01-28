@@ -3,3 +3,8 @@
   height: 52px;
   margin-left: 40px;
 }
+
+.header__logo:hover {
+  opacity: 0.8;
+  cursor: pointer;
+}
