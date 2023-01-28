@@ -1,4 +1,7 @@
 .header__link {
   margin-right: 10px;
   color: #fff;
+  background: #21212137;
+  border: 0;
+  cursor: pointer;
 }
