@@ -16,5 +16,7 @@
 @import url(../block/header/__title/header__title.css);
 @import url(../block/header/__button-nav/header__button-nav.css);
 @import url(../block/header/__button_color-green/header__button_color-green.css);
+@import url(../block/header/__option/header__option.css);
+@import url(../block/header/__select/header__select.css);
 /*arrow*/
 @import url(../block/arrow/arrow.css);
