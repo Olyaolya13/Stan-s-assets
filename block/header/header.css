@@ -2,6 +2,12 @@
   background: url(../../image/header-picture.png) center no-repeat;
   background-size: cover;
   max-width: 1600px;
-  min-height: 650px;
+  min-height: 800px;
   position: relative;
+}
+
+@media (max-width: 1400px) {
+  .header {
+    min-height: 700px;
+  }
 }
