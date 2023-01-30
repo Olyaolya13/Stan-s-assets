@@ -1,0 +1,12 @@
+.header__icon {
+  margin: 8px 0 6px;
+  width: 22px;
+  display: flex;
+  transition: 0.3s ease-in-out 0.1s;
+}
+
+.header__icon:hover {
+  opacity: 0.8;
+  box-shadow: rgba(63, 47, 82, 0.973) 5px 5px 5px;
+  border-radius: 10px;
+}

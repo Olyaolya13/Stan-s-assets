@@ -1,0 +1,21 @@
+.header__social {
+  position: fixed;
+  top: 350px;
+  right: 0;
+  background: rgba(255, 255, 255, 0.553);
+  width: 48px;
+  height: 180px;
+  border-radius: 5px;
+}
+
+.header__social:hover {
+  opacity: 0.8;
+}
+
+@media (max-width: 1800px) {
+  .header__social {
+    top: 330px;
+    width: 23px;
+    height: 130px;
+  }
+}

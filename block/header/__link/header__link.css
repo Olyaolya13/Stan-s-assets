@@ -8,4 +8,9 @@
   background: #04040400;
   border: 0;
   cursor: pointer;
+  transition: 0.3s ease-in-out 0.1s;
+}
+
+.header__link:hover {
+  opacity: 0.7;
 }
