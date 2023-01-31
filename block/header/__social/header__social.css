@@ -8,9 +8,7 @@
   border-radius: 5px;
 }
 
-.header__social:hover {
-  opacity: 0.8;
-}
+
 
 @media (max-width: 1800px) {
   .header__social {
